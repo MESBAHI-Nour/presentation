@@ -1,5 +1,6 @@
-# Plan 
-1. Contexte de projet
+# Plan
+
+1. Context de project
     1. Defis Operationnels
     2. Objectifs de la solution
     3. Definition de Probleme
