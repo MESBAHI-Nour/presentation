@@ -139,7 +139,7 @@ contenu ici.
 
 ---
 
-![Carte d’empathie SakanCampus](images/carte-empathie-sakancampus.png)
+![Carte d’empathie SakanCampus](./images/carte-empathie-sakancampus.png)
 
 ---
 <!-- _class: blank -->
