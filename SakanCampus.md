@@ -142,9 +142,32 @@ contenu ici.
 ![Carte d’empathie SakanCampus](./images/carte-empathie-sakancampus.png)
 
 ---
-<!-- _class: blank -->
+
+<!-- _class: subsection -->
+
 <!-- _paginate: false -->
 
+# Definition de probleme
+
+---
+
+**Comment trouver un logement étudiant fiable, abordable et proche du campus au Maroc ?**
+
+![Carte d’empathie SakanCampus](./images/définition-probleme.png)
+
+---
+
+<!-- _class: subsection -->
+
+<!-- _paginate: false -->
+
+# ideation
+
+---
+
+---
+<!-- _class: blank -->
+<!-- _paginate: false -->
 # Branche technique
 
 ---
