@@ -30,7 +30,7 @@ jobs:
           mkdir -p dist
 
           npx --yes @marp-team/marp-cli@latest \
-            sequelette-fil-rouge.md \
+            SakanCampus.md \
             --html \
             -o dist/index.html
 

@@ -1,7 +1,7 @@
 1. Introduction
 2. Contexte du projet
    1. objectif de formation
-   2. MonProjet
+   2. SakanCampus
    3. Cahier de charge
 3. Méthode de travail
    1. Scrum

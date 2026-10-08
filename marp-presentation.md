@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: uncover
 paginate: true
 style: |
   section { font-size: 28px; }
@@ -32,28 +32,7 @@ Extension : marp-team.marp-vscode
 
 ---
 
-# 2. Première présentation
-
-1. Créer un fichier `presentation.md`
-2. Ajouter l'en-tête Marp
-3. Écrire les slides
-4. Ouvrir l'aperçu (icône en haut à droite)
-
-```markdown
----
-marp: true
----
-
-# Ma première slide
-
----
-
-# Ma deuxième slide
-```
-
----
-
-# 3. Structure d'un fichier Marp
+# 2. Structure d'un fichier Marp
 
 - **Front matter** : en haut, entre `---`
 - **Slides** : séparées par `---`
