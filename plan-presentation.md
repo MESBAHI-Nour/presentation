@@ -7,19 +7,19 @@
    1. Scrum
    2. 2TUP
    3. Design thinking
-   4. Planification
-4. Branche fonctionnelle
+4. Planification
+5. Branche fonctionnelle
    1. Carte d'empathie
    2. Definition de probleme
    3. ideation
    4. diagramme des cas de l'utilisation
-5. Branche technique
-   1. choix technologiques
+6. Branche technique
+   1. Stack technologiques
    2. Architecture Logicielle
    3. Prototype (fonctionalitees , classes)
-6. Conception
+7. Conception
    1. Diagramme de classe
    2. Maquettes
-7. Réalisation
+8. Réalisation
    1. Interfaces
-8. conclusion
+9. conclusion
