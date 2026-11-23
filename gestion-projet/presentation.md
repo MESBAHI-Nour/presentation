@@ -5,8 +5,6 @@ size: 16:9
 paginate: true
 ---
 
-![Logo OFPPT](images/ofppt-logo.png) ![Logo SoliCode](images/solicode-logo.png)
-
 # Gestion de projets
 
 ## Daily Scrum
