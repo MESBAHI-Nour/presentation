@@ -27,7 +27,7 @@ jobs:
       run: |
         mkdir -p dist
         npx --yes @marp-team/marp-cli@latest \
-        SakanCampus.md \
+        gestion-projet/presentation.md \
         --html \
         -o dist/index.html
 
